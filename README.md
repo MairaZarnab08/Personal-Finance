@@ -1,7 +1,5 @@
 <h1>Personal Finance Data-Analysis</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
 <h2>Description</h2>
 In this project, an exploration of personal finance trends in 2023 was undertaken, with a focus on income, expenses, and savings. Financial data was analyzed to gain insights into individuals' financial behaviors and priorities. Through detailed examination, patterns in spending habits, savings strategies, and income sources were identified. The analysis aimed to provide actionable insights to optimize financial management and assist individuals in achieving their financial goals.
 <br />
